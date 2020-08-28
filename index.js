@@ -1,3 +1,5 @@
+import React, {Component} from 'react';
+
 import {Image, Dimensions, View} from 'react-native';
 
 import {sha256} from 'react-native-sha256';
