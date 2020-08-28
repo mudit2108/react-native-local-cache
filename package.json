@@ -1,5 +1,5 @@
 {
-  "name": "react-native-local-cache",
+  "name": "@mudit2108/react-native-local-cache",
   "version": "1.0.0",
   "description": "Maintain a fast delivery of images by using the local storage of the device",
   "main": "index.js",
@@ -24,6 +24,7 @@
     "fast-image",
     "react-native-cache"
   ],
+  "type": "module",
   "author": "mudit2108",
   "license": "ISC",
   "bugs": {
