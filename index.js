@@ -128,3 +128,6 @@ class CachedImage extends Component {
   }
 
 }
+
+
+export default CachedImage;
