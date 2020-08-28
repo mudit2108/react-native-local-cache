@@ -1,0 +1,25 @@
+{
+  "name": "react-native-local-cache",
+  "version": "1.0.0",
+  "description": "Maintain a fast delivery of images by using the local storage of the device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudit2108/react-native-local-cache.git"
+  },
+  "keywords": [
+    "react-native",
+    "local-cache",
+    "fast-image",
+    "react-native-cache"
+  ],
+  "author": "mudit2108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudit2108/react-native-local-cache/issues"
+  },
+  "homepage": "https://github.com/mudit2108/react-native-local-cache#readme"
+}
